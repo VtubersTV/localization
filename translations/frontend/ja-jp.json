@@ -36,38 +36,39 @@
 			"login": "ログイン"
 		},
 		"channels": {
-			"seeAll": "See All",
-			"latestUploads": "Latest Uploads",
-			"popularUploads": "Popular Uploads",
-			"bar": {
-				"home": "Home",
-				"videos": "Videos",
-				"about": "About",
-				"dashboard": "Dashboard",
-				"unfollow": "Unfollow",
-				"follow": "Follow"
-			},
-			"about": {
-				"hasPremium": "This user has premium!",
-				"joined": "Joined {0}",
-				"stats": {
-					"title": "Stats",
-					"joinDate": "Join Date",
-					"views": "Views",
-					"followers": "Followers",
-					"pronouns": "Pronouns"
-				}
-			},
-			"videos": {
-				"amount": "{0} Videos",
-				"sortBy": {
-					"title": "Sort By",
-					"popularity": "Popularity",
-					"latest": "Latest",
-					"dateAddedOldest": "Date Added (Oldest)",
-					"dateAddedNewest": "Date Added (Newest)"
-				}
-			}
+	"seeAll": "すべて表示",
+	"latestUploads": "最新のアップロード",
+	"popularUploads": "人気のアップロード",
+	"bar": {
+		"home": "ホーム",
+		"videos": "動画",
+		"about": "概要",
+		"dashboard": "ダッシュボード",
+		"unfollow": "フォロー解除",
+		"follow": "フォロー"
+	},
+	"about": {
+		"hasPremium": "このユーザーはプレミアムです！",
+		"joined": "{0}に参加",
+		"stats": {
+			"title": "統計",
+			"joinDate": "参加日",
+			"views": "視聴回数",
+			"followers": "フォロワー",
+			"pronouns": "代名詞"
 		}
+	},
+	"videos": {
+		"amount": "{0} 本の動画",
+		"sortBy": {
+			"title": "並び替え",
+			"popularity": "人気順",
+			"latest": "最新",
+			"dateAddedOldest": "追加日 (古い順)",
+			"dateAddedNewest": "追加日 (新しい順)"
+		}
+	}
+}
+
 	}
 }
