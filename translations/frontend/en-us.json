@@ -34,6 +34,40 @@
 				"signOut": "Sign Out"
 			},
 			"login": "Login"
+		},
+		"channels": {
+			"seeAll": "See All",
+			"latestUploads": "Latest Uploads",
+			"popularUploads": "Popular Uploads",
+			"bar": {
+				"home": "Home",
+				"videos": "Videos",
+				"about": "About",
+				"dashboard": "Dashboard",
+				"unfollow": "Unfollow",
+				"follow": "Follow"
+			},
+			"about": {
+				"hasPremium": "This user has premium!",
+				"joined": "Joined {0}",
+				"stats": {
+					"title": "Stats",
+					"joinDate": "Join Date",
+					"views": "Views",
+					"followers": "Followers",
+					"pronouns": "Pronouns"
+				}
+			},
+			"videos": {
+				"amount": "{0} Videos",
+				"sortBy": {
+					"title": "Sort By",
+					"popularity": "Popularity",
+					"latest": "Latest",
+					"dateAddedOldest": "Date Added (Oldest)",
+					"dateAddedNewest": "Date Added (Newest)"
+				}
+			}
 		}
 	}
 }
