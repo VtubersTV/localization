@@ -33,7 +33,8 @@
 				"settings": "Settings",
 				"help": "Help",
 				"signOut": "Sign Out"
-			}
+			},
+			"login": "Login"
 		}
 	}
 }
