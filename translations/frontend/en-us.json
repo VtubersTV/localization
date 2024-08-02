@@ -1,0 +1,39 @@
+{
+	"name": "English",
+	"short": "en-us",
+	"translations": {
+		"title": "VtubersTV",
+		"uploadVideo": "Upload Video",
+		"viewAll": "View All",
+		"views": "{0} views",
+		"home": {
+			"explore": "Explore",
+			"fromFollowing": "Videos from people you follow"
+		},
+		"sidebar": {
+			"following": "Following",
+			"helpfulLinks": {
+				"title": "Helpful Links",
+				"docs": "Documentation",
+				"legal": "Legal",
+				"status": "Status",
+				"reportBug": "Report a Bug"
+			}
+		},
+		"header": {
+			"explore": "Explore",
+			"browse": "Browse",
+			"search": "Search for videos, channels...",
+			"new": {
+				"uploadVideo": "Upload Video",
+				"goLive": "Go Live"
+			},
+			"user": {
+				"myChannel": "My Channel",
+				"settings": "Settings",
+				"help": "Help",
+				"signOut": "Sign Out"
+			}
+		}
+	}
+}

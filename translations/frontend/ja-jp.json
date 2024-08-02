@@ -1,0 +1,39 @@
+{
+	"name": "日本語",
+	"short": "ja-jp",
+	"translations": {
+		"title": "VtubersTV",
+		"uploadVideo": "動画をアップロード",
+		"viewAll": "すべて表示",
+		"views": "{0} 回視聴",
+		"home": {
+			"explore": "探索",
+			"fromFollowing": "フォローしている人からの動画"
+		},
+		"sidebar": {
+			"following": "フォロー中",
+			"helpfulLinks": {
+				"title": "便利なリンク",
+				"docs": "ドキュメント",
+				"legal": "法務",
+				"status": "ステータス",
+				"reportBug": "バグを報告"
+			}
+		},
+		"header": {
+			"explore": "探索",
+			"browse": "ブラウズ",
+			"search": "動画、チャンネルを検索...",
+			"new": {
+				"uploadVideo": "動画をアップロード",
+				"goLive": "ライブ配信を開始"
+			},
+			"user": {
+				"myChannel": "マイチャンネル",
+				"settings": "設定",
+				"help": "ヘルプ",
+				"signOut": "ログアウト"
+			}
+		}
+	}
+}
