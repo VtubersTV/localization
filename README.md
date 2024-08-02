@@ -78,4 +78,6 @@ git push origin master
   <figcaption align="center">Source: <a href="https://docs.github.com/en/get-started/quickstart/create-a-repo">GitHub Docs</a></figcaption>
 </figure>
 
+<br>
+
 3. Wait for the maintainers to review your pull request and merge it into the main repository. If there are any issues, they will provide feedback for you to address.
