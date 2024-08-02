@@ -1,0 +1,186 @@
+{
+	"name": "日本語",
+	"short": "ja-jp",
+	"translations": {
+		"title": "VtubersTV",
+		"search": "検索 (コマンドパレットを開くにはCtrl + /を押してください)",
+		"main": {
+			"totalFollowers": "フォロワー総数",
+			"updates": "更新総数"
+		},
+		"header": {
+			"dropdown": {
+				"profile": "プロフィール",
+				"settings": "設定",
+				"signout": "ログアウト",
+				"help": "改善へのご協力",
+				"premium": "プレミアム"
+			}
+		},
+		"sidebar": {
+			"tabs": {
+				"overview": "概要",
+				"videos": "動画",
+				"safety": "安全",
+				"upload": {
+					"title": "アップロード",
+					"video": "動画",
+					"live": "ライブ"
+				},
+				"settings": {
+					"title": "設定",
+					"account": "アカウント",
+					"notifications": "通知"
+				},
+				"docs": "ドキュメント",
+				"support": "サポート"
+			}
+		},
+		"settings": {
+			"account": {
+				"title": "ユーザー設定",
+				"profile": {
+					"picture": {
+						"title": "プロフィール写真",
+						"desc": "JPG、GIF、またはPNG。最大サイズ800KB"
+					},
+					"banner": {
+						"title": "バナー写真",
+						"desc": "JPG、GIF、またはPNG。最大サイズ1MB"
+					}
+				},
+				"social": {
+					"title": "ソーシャルアカウント",
+					"disconnect": "接続解除",
+					"connect": "接続"
+				},
+				"general": {
+					"title": "一般情報",
+					"displayName": "表示名",
+					"pronouns": "代名詞",
+					"selectPronouns": "代名詞を選択"
+				},
+				"vanity": {
+					"enabled": "ヴァニティURL",
+					"disabled": "ヴァニティURL (プレミアム必要)",
+					"select": "プロバイダーを選択",
+					"username": "ユーザー名を追加"
+				},
+				"bio": "あなたについて",
+				"save": "全て保存",
+				"premium": {
+					"title": "プレミアム詳細",
+					"since": "プレミアム開始日",
+					"until": "プレミアム終了日",
+					"cancel": "プレミアムキャンセル",
+					"success": "プレミアムにアップグレードしました。新機能をお楽しみください！",
+					"$title": "プレミアムアップグレード成功 🎉",
+					"expires": "有効期限"
+				},
+				"preferences": {
+					"title": "設定",
+					"darkMode": "ダークモード"
+				}
+			}
+		},
+		"upload": {
+			"video": {
+				"firstStep": "動画をアップロード",
+				"secondStep": "サムネイルをアップロード",
+				"title": "タイトル",
+				"description": "説明",
+				"tags": "タグ",
+				"contentGuidelines": {
+					"title": "コンテンツガイドライン",
+					"18Plus": "18+ コンテンツ"
+				},
+				"agreement": {
+					"title": "同意書",
+					"description": "私は {0}、{1}、および {2} に同意します。"
+				},
+				"uploadButton": "アップロード"
+			}
+		},
+		"premium": {
+			"title": "プレミアム",
+			"upsell": "VtubersTVを最大限に活用するには、プレミアムアカウントへ のアップグレードを検討してください。",
+			"$free": "無料",
+			"$premium": "プレミアム",
+			"buy": "プレミアムにアップグレード",
+			"steps": {
+				"1": "{0}を作成できる",
+				"2": "{0}を作成できる",
+				"3": "新機能への早期アクセス",
+				"4": "広告なしの体験"
+			}
+		},
+		"cmd": {
+			"safety": "安全規則を見る",
+			"news": "ニュースへ移動",
+			"settings": "設定へ移動",
+			"home": "ホームへ移動",
+			"noResults": "コマンドが見つかりません",
+			"error": "コマンドの取得中にエラーが発生しました。",
+			"noneWereFound": "指定されたクエリではコマンドが見つかりませんでした。",
+			"close": "{0}を押して閉じる"
+		},
+		"userSafety": {
+			"quickLinks": {
+				"1": "安全規則について詳しく知る",
+				"2": "新しい安全規則を作成する",
+				"3": "安全規則を編集する"
+			},
+			"name": "名前",
+			"regex": "正規表現",
+			"action": "アクション",
+			"status": "ステータス",
+			"notes": "メモ",
+			"created": "作成日",
+			"updated": "更新日",
+			"main": {
+				"title": "ユーザーの安全",
+				"noRules": "まだ安全規則を作成していません。",
+				"rules": {
+					"title": "ユーザーの安全規則",
+					"description": "ここで安全規則を管理できます。これらの規則は、チャットの管理とコミュニティの保護に役立ちます。",
+					"status": {
+						"enabled": "有効",
+						"disabled": "無効"
+					},
+					"created": "作成日:"
+				}
+			},
+			"edit": {
+				"title": "規則情報",
+				"description": "以下の規則情報を編集します。"
+			},
+			"view": {
+				"description": "以下の規則情報を表示します。"
+			},
+			"create": {
+				"title": "規則を作成",
+				"info": {
+					"name": "規則の名前。3文字以上20文字未満でなければなりません。",
+					"regex": "ユーザーのメッセージに対して一致させるために使用される正規表現。{0}",
+					"action": "ユーザーのメッセージが正規表現に一致したときに実行されるアクション。{0}",
+					"status": "規則のステータス。無効にすると、ユーザーのメッセージに適用されません。",
+					"notes": "規則に関する追加のメモ。{0}"
+				},
+				"optional": "このフィールドは任意です。"
+			},
+			"saveButton": "保存",
+			"createButton": "作成"
+		},
+		"videos": {
+			"title": "あなたの動画",
+			"views": "{0} 回の再生",
+			"likes": "{0} 件のいいね",
+			"noVideos": "まだ動画をアップロードしていません。",
+			"dislikes": "{0} 件の低評価",
+			"comments": "コメント ({0})",
+			"noComments": "まだコメントはありません。",
+			"deleteComment": "削除",
+			"commentNotFriendly": "このコメントはコミュニティガイドラインに違反したため削除されました。"
+		}
+	}
+}

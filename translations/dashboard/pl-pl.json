@@ -1,0 +1,186 @@
+{
+	"name": "Polski",
+	"short": "pl-pl",
+	"translations": {
+		"title": "VtubersTV",
+		"search": "Szukaj (naciśnij Ctrl + /, aby otworzyć paletę poleceń)",
+		"main": {
+			"totalFollowers": "Łączna liczba obserwujących",
+			"updates": "Łączna liczba aktualizacji"
+		},
+		"header": {
+			"dropdown": {
+				"profile": "Profil",
+				"settings": "Ustawienia",
+				"signout": "Wyloguj się",
+				"help": "Pomóż poprawić",
+				"premium": "Premium"
+			}
+		},
+		"sidebar": {
+			"tabs": {
+				"overview": "Przegląd",
+				"videos": "Wideo",
+				"safety": "Bezpieczeństwo",
+				"upload": {
+					"title": "Prześlij",
+					"video": "Wideo",
+					"live": "Na żywo"
+				},
+				"settings": {
+					"title": "Ustawienia",
+					"account": "Konto",
+					"notifications": "Powiadomienia"
+				},
+				"docs": "Dokumentacja",
+				"support": "Wsparcie"
+			}
+		},
+		"settings": {
+			"account": {
+				"title": "Ustawienia użytkownika",
+				"profile": {
+					"picture": {
+						"title": "Zdjęcie profilowe",
+						"desc": "JPG, GIF lub PNG. Maksymalny rozmiar 800 KB"
+					},
+					"banner": {
+						"title": "Zdjęcie w tle",
+						"desc": "JPG, GIF lub PNG. Maksymalny rozmiar 1 MB"
+					}
+				},
+				"social": {
+					"title": "Konta społecznościowe",
+					"disconnect": "Odłącz",
+					"connect": "Połącz"
+				},
+				"general": {
+					"title": "Informacje ogólne",
+					"displayName": "Wyświetlana nazwa",
+					"pronouns": "Zaimek",
+					"selectPronouns": "Wybierz zaimek"
+				},
+				"vanity": {
+					"enabled": "Niestandardowy URL",
+					"disabled": "Niestandardowy URL (wymaga Premium)",
+					"select": "Wybierz dostawcę",
+					"username": "Dodaj nazwę użytkownika"
+				},
+				"bio": "O tobie",
+				"save": "Zapisz wszystko",
+				"premium": {
+					"title": "Szczegóły Premium",
+					"since": "Data rozpoczęcia Premium",
+					"until": "Data zakończenia Premium",
+					"cancel": "Anuluj Premium",
+					"success": "Zaktualizowano do Premium. Ciesz się nowymi funkcjami!",
+					"$title": "Uaktualnienie do Premium zakończone sukcesem 🎉",
+					"expires": "Wygasa"
+				},
+				"preferences": {
+					"title": "Preferencje",
+					"darkMode": "Tryb ciemny"
+				}
+			}
+		},
+		"upload": {
+			"video": {
+				"firstStep": "Prześlij wideo",
+				"secondStep": "Prześlij miniaturę",
+				"title": "Tytuł",
+				"description": "Opis",
+				"tags": "Tagi",
+				"contentGuidelines": {
+					"title": "Wytyczne dotyczące treści",
+					"18Plus": "Treści 18+"
+				},
+				"agreement": {
+					"title": "Zgoda",
+					"description": "Zgadzam się na {0}, {1} oraz {2}."
+				},
+				"uploadButton": "Prześlij"
+			}
+		},
+		"premium": {
+			"title": "Premium",
+			"upsell": "Aby w pełni wykorzystać VtubersTV, rozważ uaktualnienie do konta Premium.",
+			"$free": "Darmowe",
+			"$premium": "Premium",
+			"buy": "Uaktualnij do Premium",
+			"steps": {
+				"1": "Możliwość tworzenia {0}",
+				"2": "Możliwość tworzenia {0}",
+				"3": "Wczesny dostęp do nowych funkcji",
+				"4": "Doświadczenie bez reklam"
+			}
+		},
+		"cmd": {
+			"safety": "Zobacz zasady bezpieczeństwa",
+			"news": "Przejdź do wiadomości",
+			"settings": "Przejdź do ustawień",
+			"home": "Przejdź do strony głównej",
+			"noResults": "Nie znaleziono poleceń",
+			"error": "Wystąpił błąd podczas pobierania poleceń.",
+			"noneWereFound": "Nie znaleziono poleceń dla podanego zapytania.",
+			"close": "Naciśnij {0}, aby zamknąć"
+		},
+		"userSafety": {
+			"quickLinks": {
+				"1": "Dowiedz się więcej o zasadach bezpieczeństwa",
+				"2": "Utwórz nowe zasady bezpieczeństwa",
+				"3": "Edytuj zasady bezpieczeństwa"
+			},
+			"name": "Nazwa",
+			"regex": "Wyrażenie regularne",
+			"action": "Działanie",
+			"status": "Status",
+			"notes": "Notatki",
+			"created": "Data utworzenia",
+			"updated": "Data aktualizacji",
+			"main": {
+				"title": "Bezpieczeństwo użytkownika",
+				"noRules": "Nie utworzono jeszcze zasad bezpieczeństwa.",
+				"rules": {
+					"title": "Zasady bezpieczeństwa użytkowników",
+					"description": "Tutaj możesz zarządzać zasadami bezpieczeństwa. Zasady te pomagają zarządzać czatem i chronić społeczność.",
+					"status": {
+						"enabled": "Aktywny",
+						"disabled": "Nieaktywny"
+					},
+					"created": "Data utworzenia:"
+				}
+			},
+			"edit": {
+				"title": "Informacje o zasadach",
+				"description": "Edytuj informacje o zasadach poniżej."
+			},
+			"view": {
+				"description": "Zobacz informacje o zasadach poniżej."
+			},
+			"create": {
+				"title": "Utwórz zasady",
+				"info": {
+					"name": "Nazwa zasad. Musi mieć od 3 do 20 znaków.",
+					"regex": "Wyrażenie regularne używane do dopasowania do wiadomości użytkownika. {0}",
+					"action": "Działanie, które zostanie wykonane, gdy wiadomość użytkownika będzie zgodna z wyrażeniem regularnym. {0}",
+					"status": "Status zasad. Wyłączenie uniemożliwi zastosowanie zasad do wiadomości użytkownika.",
+					"notes": "Dodatkowe notatki dotyczące zasad. {0}"
+				},
+				"optional": "To pole jest opcjonalne."
+			},
+			"saveButton": "Zapisz",
+			"createButton": "Utwórz"
+		},
+		"videos": {
+			"title": "Twoje filmy",
+			"views": "{0} wyświetleń",
+			"likes": "{0} polubień",
+			"noVideos": "Nie przesłałeś jeszcze żadnych filmów.",
+			"dislikes": "{0} negatywnych ocen",
+			"comments": "Komentarze ({0})",
+			"noComments": "Brak komentarzy.",
+			"deleteComment": "Usuń",
+			"commentNotFriendly": "Ten komentarz został usunięty za naruszenie zasad społeczności."
+		}
+	}
+}

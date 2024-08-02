@@ -5,15 +5,14 @@
 - [ ] I have carefully reviewed the [Contributing Guidelines](./CONTRIBUTING.md).
 - [ ] I have carefully reviewed the [Code of Conduct](./CODE_OF_CONDUCT.md).
 <!-- Please select the most appropriate option. -->
-- [ ] I have added tests to cover my changes.
-- [ ] I have updated the documentation accordingly.
-- [ ] I have added a new feature or fixed a bug.
+- [ ] I have added a new translation.
+- [ ] I have updated an existing translation.
 
-## Screenshots
-<details>
-<summary> Proof of functionality: Screenshots and visual evidence </summary>
+## Checklist
+<!-- Please check the following items before submitting your pull request. -->
 
-<!-- Include relevant screenshots to demonstrate that the changes are working as intended. -->
-<!-- ![screenshot](INSERT_LINK_HERE) -->
+- [ ] I have added the translation files to the appropriate directory.
+- [ ] I have updated the `README.md` file in the appropriate directory.
 
-</details>
+## Additional Information
+<!-- Add any additional information that may be relevant to your changes. -->

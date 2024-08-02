@@ -1,0 +1,186 @@
+{
+	"name": "English",
+	"short": "en-us",
+	"translations": {
+		"title": "VtubersTV",
+		"search": "Search (press Ctrl + / to open the command palette)",
+		"main": {
+			"totalFollowers": "Total Followers",
+			"updates": "Total Updates"
+		},
+		"header": {
+			"dropdown": {
+				"profile": "Profile",
+				"settings": "Settings",
+				"signout": "Sign Out",
+				"help": "Help Improve",
+				"premium": "Premium"
+			}
+		},
+		"sidebar": {
+			"tabs": {
+				"overview": "Overview",
+				"videos": "Videos",
+				"safety": "Safety",
+				"upload": {
+					"title": "Upload",
+					"video": "Video",
+					"live": "Live"
+				},
+				"settings": {
+					"title": "Settings",
+					"account": "Account",
+					"notifications": "Notifications"
+				},
+				"docs": "Documentation",
+				"support": "Support"
+			}
+		},
+		"settings": {
+			"account": {
+				"title": "User Settings",
+				"profile": {
+					"picture": {
+						"title": "Profile Picture",
+						"desc": "JPG, GIF, or PNG. Maximum size 800 KB"
+					},
+					"banner": {
+						"title": "Banner Picture",
+						"desc": "JPG, GIF, or PNG. Maximum size 1 MB"
+					}
+				},
+				"social": {
+					"title": "Social Accounts",
+					"disconnect": "Disconnect",
+					"connect": "Connect"
+				},
+				"general": {
+					"title": "General Information",
+					"displayName": "Display Name",
+					"pronouns": "Pronouns",
+					"selectPronouns": "Select Pronouns"
+				},
+				"vanity": {
+					"enabled": "Custom URL",
+					"disabled": "Custom URL (requires Premium)",
+					"select": "Select Provider",
+					"username": "Add Username"
+				},
+				"bio": "About You",
+				"save": "Save All",
+				"premium": {
+					"title": "Premium Details",
+					"since": "Premium Start Date",
+					"until": "Premium End Date",
+					"cancel": "Cancel Premium",
+					"success": "Upgraded to Premium. Enjoy new features!",
+					"$title": "Successfully Upgraded to Premium 🎉",
+					"expires": "Expires"
+				},
+				"preferences": {
+					"title": "Preferences",
+					"darkMode": "Dark Mode"
+				}
+			}
+		},
+		"upload": {
+			"video": {
+				"firstStep": "Upload Video",
+				"secondStep": "Upload Thumbnail",
+				"title": "Title",
+				"description": "Description",
+				"tags": "Tags",
+				"contentGuidelines": {
+					"title": "Content Guidelines",
+					"18Plus": "18+ Content"
+				},
+				"agreement": {
+					"title": "Agreement",
+					"description": "I agree to {0}, {1}, and {2}."
+				},
+				"uploadButton": "Upload"
+			}
+		},
+		"premium": {
+			"title": "Premium",
+			"upsell": "To fully utilize VtubersTV, consider upgrading to a Premium account.",
+			"$free": "Free",
+			"$premium": "Premium",
+			"buy": "Upgrade to Premium",
+			"steps": {
+				"1": "Ability to create {0}",
+				"2": "Ability to create {0}",
+				"3": "Early access to new features",
+				"4": "Ad-free experience"
+			}
+		},
+		"cmd": {
+			"safety": "View safety rules",
+			"news": "Go to news",
+			"settings": "Go to settings",
+			"home": "Go to homepage",
+			"noResults": "No commands found",
+			"error": "An error occurred while fetching commands.",
+			"noneWereFound": "No commands found for the given query.",
+			"close": "Press {0} to close"
+		},
+		"userSafety": {
+			"quickLinks": {
+				"1": "Learn more about safety rules",
+				"2": "Create new safety rules",
+				"3": "Edit safety rules"
+			},
+			"name": "Name",
+			"regex": "Regular Expression",
+			"action": "Action",
+			"status": "Status",
+			"notes": "Notes",
+			"created": "Creation Date",
+			"updated": "Update Date",
+			"main": {
+				"title": "User Safety",
+				"noRules": "No safety rules have been created yet.",
+				"rules": {
+					"title": "User Safety Rules",
+					"description": "Here you can manage safety rules. These rules help manage chat and protect the community.",
+					"status": {
+						"enabled": "Active",
+						"disabled": "Inactive"
+					},
+					"created": "Creation Date:"
+				}
+			},
+			"edit": {
+				"title": "Rule Information",
+				"description": "Edit rule information below."
+			},
+			"view": {
+				"description": "View rule information below."
+			},
+			"create": {
+				"title": "Create Rule",
+				"info": {
+					"name": "Rule name. Must be between 3 and 20 characters.",
+					"regex": "Regular expression used to match the user's message. {0}",
+					"action": "Action that will be taken when the user's message matches the regular expression. {0}",
+					"status": "Rule status. Disabling will prevent the rule from being applied to user messages.",
+					"notes": "Additional notes regarding the rule. {0}"
+				},
+				"optional": "This field is optional."
+			},
+			"saveButton": "Save",
+			"createButton": "Create"
+		},
+		"videos": {
+			"title": "Your Videos",
+			"views": "{0} views",
+			"likes": "{0} likes",
+			"noVideos": "You haven't uploaded any videos yet.",
+			"dislikes": "{0} dislikes",
+			"comments": "Comments ({0})",
+			"noComments": "No comments.",
+			"deleteComment": "Delete",
+			"commentNotFriendly": "This comment has been removed for violating community guidelines."
+		}
+	}
+}
