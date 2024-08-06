@@ -59,7 +59,7 @@
         }
       },
       "videos": {
-        "amount": "{0} 本の動画",
+        "amount": "本の動画",
         "sortBy": {
           "title": "並び替え",
           "popularity": "人気順",
