@@ -1,0 +1,73 @@
+{
+	"name": "Русский",
+	"short": "ru-ru",
+	"translations": {
+		"title": "VtubersTV",
+		"uploadVideo": "Добавить видео",
+		"viewAll": "Смотреть всё",
+		"views": "{0} Просмотров",
+		"home": {
+			"explore": "Исследуйте",
+			"fromFollowing": "Видео от людей на которых вы подписаны"
+		},
+		"sidebar": {
+			"following": "Подписки",
+			"helpfulLinks": {
+				"title": "Полезные ссылки",
+				"docs": "Справка",
+				"legal": "Юрид.",
+				"reportBug": "Сообщить об ошибке"
+			}
+		},
+		"header": {
+			"explore": "Исследуйте",
+			"browse": "Поиск",
+			"search": "Поиск видео, каналов,...",
+			"new": {
+				"uploadVideo": "Добавить видео",
+				"goLive": "Начать прямую трансляцию"
+			},
+			"user": {
+				"myChannel": "Мой канал",
+				"settings": "Настройки",
+				"help": "Помощь",
+				"signOut": "Выход"
+			},
+			"login": "Вход"
+		},
+		"channels": {
+			"seeAll": "Смотреть все",
+			"latestUploads": "Последнее",
+			"popularUploads": "Популярная",
+			"bar": {
+				"home": "Главнaя",
+				"videos": "Видео",
+				"about": "О канале",
+				"dashboard": "Панель",
+				"unfollow": "Отменить подписку",
+				"follow": "Подписаться"
+			},
+			"about": {
+				"hasPremium": "У этого пользователя премиум-подписка!",
+				"joined": "Присоединились {0}",
+				"stats": {
+					"title": "Статистика",
+					"joinDate": "Дата регистрации",
+					"views": "Просмотров",
+					"followers": "Подписчиков",
+					"pronouns": "Местоимения"
+				}
+			},
+			"videos": {
+				"amount": "{0} Видео",
+				"sortBy": {
+					"title": "Сортировать по",
+					"popularity": "Популярности",
+					"latest": "Последнее",
+					"dateAddedOldest": "Старое",
+					"dateAddedNewest": "Новое"
+				}
+			}
+		}
+	}
+}

@@ -6,3 +6,4 @@ Welcome to the VtubersTV Frontend Translation repository! Here you can find all 
 
 - [English](./en-us.json)
 - [Japanese](./ja-jp.json)
+- [Russian](./ru-ru.json)
