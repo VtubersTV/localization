@@ -79,6 +79,7 @@
 				"password": "Password"
 			},
 			"forgotPassword": "Forgot Password?",
+			"loginButton": "Login",
 			"verify": {
 				"title": "Verify IP Address",
 				"body": "Because you are logging in from a new IP address, we need to verify your identity. Please check your email for a verification code.",
