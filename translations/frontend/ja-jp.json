@@ -68,6 +68,23 @@
           "dateAddedNewest": "追加日 (新しい順)"
         }
       }
+    },
+    "login": {
+      "title": "お帰りなさい！",
+      "subtitle": "初めてですか？ サインアップして参加しましょう！",
+      "subtitleLink": "サインアップ",
+      "titleMain": "VtubersTVにログイン",
+      "input": {
+        "username": "ユーザー名",
+        "password": "パスワード"
+      },
+      "forgotPassword": "パスワードをお忘れですか？",
+      "verify": {
+        "title": "IPアドレスの確認",
+        "body": "新しいIPアドレスからログインしているため、身元確認が必要です。確認コードをメールで確認してください。",
+        "input": "確認コード",
+        "submit": "確認"
+      }
     }
   }
 }

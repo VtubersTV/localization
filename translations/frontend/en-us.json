@@ -49,7 +49,7 @@
 			},
 			"about": {
 				"hasPremium": "This user has premium!",
-				"joined": "Joined {0}",
+				"joined": "Joined",
 				"stats": {
 					"title": "Stats",
 					"joinDate": "Join Date",
@@ -67,6 +67,23 @@
 					"dateAddedOldest": "Date Added (Oldest)",
 					"dateAddedNewest": "Date Added (Newest)"
 				}
+			}
+		},
+		"login": {
+			"title": "Welcome Back!",
+			"subtitle": "New here? Join us by signing up!",
+			"subtitleLink": "Sign Up",
+			"titleMain": "Log into VtubersTV",
+			"input": {
+				"username": "Username",
+				"password": "Password"
+			},
+			"forgotPassword": "Forgot Password?",
+			"verify": {
+				"title": "Verify IP Address",
+				"body": "Because you are logging in from a new IP address, we need to verify your identity. Please check your email for a verification code.",
+				"input": "Verification Code",
+				"submit": "Verify"
 			}
 		}
 	}
