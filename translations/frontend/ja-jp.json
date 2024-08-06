@@ -86,6 +86,66 @@
         "input": "確認コード",
         "submit": "確認"
       }
+    },
+    "signup": {
+      "title": "VtubersTVへようこそ",
+      "subtitle": "既にアカウントをお持ちの方は、ログインしてください。",
+      "agree": "サインアップすることで、あなたは私たちの{0}、{1}、および{2}に同意したことになります。",
+      "subtitleLink": "ログイン",
+      "titleMain": "VtubersTVアカウントの登録",
+      "input": {
+        "username": "ユーザー名",
+        "displayName": "表示名",
+        "email": "メールアドレス",
+        "password": "パスワード",
+        "confirmPassword": "パスワードを確認",
+        "dateOfBirth": "生年月日 (MM/DD/YYYY)",
+        "dateOfBirthError": "MM/DD/YYYY形式の有効な日付を入力してください。",
+        "pronouns": "代名詞"
+      },
+      "signupButton": "サインアップ",
+      "errors": {
+        "username": {
+          "required": "ユーザー名は必須です。",
+          "minLength": "ユーザー名は最低{0}文字必要です。",
+          "maxLength": "ユーザー名は最大{0}文字までです。",
+          "pattern": "ユーザー名には文字、数字、アンダースコアのみ使用できます。"
+        },
+        "displayName": {
+          "required": "表示名は必須です。",
+          "minLength": "表示名は最低{0}文字必要です。",
+          "maxLength": "表示名は最大{0}文字までです。"
+        },
+        "email": {
+          "required": "メールアドレスは必須です。",
+          "email": "有効なメールアドレスを入力してください。",
+          "banned": "このメールアドレスは使用禁止です。"
+        },
+        "password": {
+          "required": "パスワードは必須です。",
+          "minLength": "パスワードは最低{0}文字必要です。",
+          "maxLength": "パスワードは最大{0}文字までです。",
+          "pattern": "パスワードには、少なくとも1つの大文字、小文字、数字、特殊文字を含める必要があります。"
+        },
+        "confirmPassword": {
+          "required": "確認パスワードは必須です。",
+          "mustMatch": "パスワードが一致する必要があります。"
+        },
+        "dateOfBirth": {
+          "required": "生年月日は必須です。",
+          "invalid": "有効な生年月日を入力してください。"
+        },
+        "pronouns": {
+          "required": "代名詞は必須です。"
+        },
+        "verification": {
+          "required": "有効な確認コードを入力してください。"
+        }
+      },
+      "verify": {
+        "title": "確認コードをメールアドレスに送信しました。以下に入力してください。",
+        "placeholder": "確認コード"
+      }
     }
   }
 }

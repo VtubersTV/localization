@@ -86,6 +86,66 @@
 				"input": "Verification Code",
 				"submit": "Verify"
 			}
+		},
+		"signup": {
+			"title": "Welcome to VtubersTV",
+			"subtitle": "If you already have an account, kindly log in.",
+			"agree": "By signing up, you agree to our {0}, {1}, and {2}.",
+			"subtitleLink": "Log In",
+			"titleMain": "Register for a VtubersTV Account",
+			"input": {
+				"username": "Username",
+				"displayName": "Display Name",
+				"email": "Email Address",
+				"password": "Password",
+				"confirmPassword": "Confirm Password",
+				"dateOfBirth": "Date of Birth (MM/DD/YYYY)",
+				"dateOfBirthError": "Please enter a valid date in the format MM/DD/YYYY.",
+				"pronouns": "Pronouns"
+			},
+			"signupButton": "Sign Up",
+			"errors": {
+				"username": {
+					"required": "Username is required.",
+					"minLength": "Username must be at least {0} characters long.",
+					"maxLength": "Username must be at most {0} characters long.",
+					"pattern": "Username can only contain letters, numbers, and underscores."
+				},
+				"displayName": {
+					"required": "Display name is required.",
+					"minLength": "Display name must be at least {0} characters long.",
+					"maxLength": "Display name must be at most {0} characters long."
+				},
+				"email": {
+					"required": "Email address is required.",
+					"email": "Please enter a valid email address.",
+					"banned": "This email address is banned."
+				},
+				"password": {
+					"required": "Password is required.",
+					"minLength": "Password must be at least {0} characters long.",
+					"maxLength": "Password must be at most {0} characters long.",
+					"pattern": "Password must contain at least one uppercase letter, one lowercase letter, one number, and one special character."
+				},
+				"confirmPassword": {
+					"required": "Confirm password is required.",
+					"mustMatch": "Passwords must match."
+				},
+				"dateOfBirth": {
+					"required": "Date of birth is required.",
+					"invalid": "Please enter a valid date of birth."
+				},
+				"pronouns": {
+					"required": "Pronouns are required."
+				},
+				"verification": {
+					"required": "Please enter a valid verification code."
+				}
+			},
+			"verify": {
+				"title": "We've sent you a verification code to your email address. Please enter it below.",
+				"placeholder": "Verification Code"
+			}
 		}
 	}
 }
