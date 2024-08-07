@@ -85,6 +85,22 @@
 				"body": "Because you are logging in from a new IP address, we need to verify your identity. Please check your email for a verification code.",
 				"input": "Verification Code",
 				"submit": "Verify"
+			},
+			"errors": {
+				"username": {
+					"required": "Username is required.",
+					"minLength": "Username must be at least {0} characters long.",
+					"maxLength": "Username must be at most {0} characters long.",
+					"pattern": "Username can only contain letters, numbers, and underscores."
+				},
+				"password": {
+					"required": "Password is required.",
+					"minLength": "Password must be at least {0} characters long.",
+					"maxLength": "Password must be at most {0} characters long."
+				},
+				"verification": {
+					"required": "Please enter a valid verification code."
+				}
 			}
 		},
 		"signup": {
