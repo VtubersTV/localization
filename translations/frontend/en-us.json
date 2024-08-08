@@ -6,6 +6,8 @@
 		"uploadVideo": "Upload Video",
 		"viewAll": "View All",
 		"views": "{0} views",
+		"follow": "Follow",
+		"unfollow": "Unfollow",
 		"home": {
 			"explore": "Explore",
 			"fromFollowing": "Videos from people you follow"
@@ -161,6 +163,36 @@
 			"verify": {
 				"title": "We've sent you a verification code to your email address. Please enter it below.",
 				"placeholder": "Verification Code"
+			}
+		},
+		"search": {
+			"noResults": "No results found",
+			"users": {
+				"title": "Users",
+				"followers": "Followers"
+			},
+			"videos": {
+				"title": "Videos"
+			}
+		},
+		"watch": {
+			"followers": "{0} Followers",
+			"comments": {
+				"title": "Leave a Comment",
+				"input": "Write a comment...",
+				"button": "Post Comment",
+				"length": "{0} Comments",
+				"noComments": "No comments yet.",
+				"info": "Posted on: {0} at {1}",
+				"reply": "Reply"
+			},
+			"report": {
+				"title": "Report Video",
+				"reason": "Reason",
+				"subcategory": "Subcategory",
+				"moreInfo": "More Information",
+				"close": "Close",
+				"submit": "Submit Report"
 			}
 		}
 	}

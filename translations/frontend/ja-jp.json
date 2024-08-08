@@ -162,6 +162,36 @@
         "title": "確認コードをメールアドレスに送信しました。以下に入力してください。",
         "placeholder": "確認コード"
       }
+    },
+    "search": {
+      "noResults": "結果が見つかりません",
+      "users": {
+        "title": "ユーザー",
+        "followers": "フォロワー"
+      },
+      "videos": {
+        "title": "動画"
+      }
+    },
+    "watch": {
+      "followers": "{0} 人のフォロワー",
+      "comments": {
+        "title": "コメントを残す",
+        "input": "コメントを書く...",
+        "button": "コメントを投稿",
+        "length": "{0} 件のコメント",
+        "noComments": "まだコメントはありません。",
+        "info": "投稿日: {0} 時間: {1}",
+        "reply": "返信"
+      },
+      "report": {
+        "title": "動画を報告",
+        "reason": "理由",
+        "subcategory": "サブカテゴリー",
+        "moreInfo": "詳細情報",
+        "close": "閉じる",
+        "submit": "報告を送信"
+      }
     }
   }
 }
